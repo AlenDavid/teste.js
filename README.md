@@ -1,4 +1,4 @@
-## JS teste
+## **JS teste
 
 ##  Objetivo
 Validate if the string syntax is correct.
