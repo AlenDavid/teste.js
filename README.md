@@ -1,8 +1,8 @@
 ## JS teste
 
 ##  How I can get this project?
-You can clone this repo with command
-**gh repo clone GabrielAlbernaz-Dev/teste.js
+### You can clone this repo with command
+gh repo clone GabrielAlbernaz-Dev/teste.js
 
 ## Install the Node JS with the link below
 https://nodejs.org/en/download/
