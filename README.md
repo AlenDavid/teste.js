@@ -1,18 +1,20 @@
 ## JS teste
 
 ##  How I can get this project?
-### You can clone this repo with command
+### You can clone this repo with the command
 gh repo clone GabrielAlbernaz-Dev/teste.js
 
 ## Install the Node JS with the link below
 https://nodejs.org/en/download/
 
-## validation1
-Returns true if the parameter starts in the correct way.
+## Install Jett for test your project with the command
+npm install --save-dev jest
 
-## validation2 
-Returns true if the parameter ends in the correct way.
+## Put this section in your package.json
+  "scripts": {
+    "test": "jest"
+  }
 
-## validation
-It is true if validation1 and validation2 returns true
+## How I can understand what the project does?
+In this repo has the file guide.md, in this file you can understand the function and the dates.
 
