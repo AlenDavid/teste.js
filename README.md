@@ -1,4 +1,4 @@
-## JS teste
+# JS teste
 
 ##  How I can get this project?
 ### You can clone this repo with the command
