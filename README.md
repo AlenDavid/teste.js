@@ -9,6 +9,12 @@ https://nodejs.org/en/download/
 
 ## Install Jett for test your project with the command
 npm install --save-dev jest
+yarn add --dev jest
+
+## Run the test
+npm run test
+yarn test
+
 
 ## Put this section in your package.json
   "scripts": {
