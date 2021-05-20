@@ -10,7 +10,3 @@ function validate(str) {
   const str2 = "[string]" // Return True,the string was open correctly
 
 //IF str2 has {} or () is true anyway,
-
-//Teste
-console.log(validate(str)) //Test
-console.log(validate(str2)) //
