@@ -5,6 +5,5 @@ function validate(str) {
     const validation = validation1 && validation2
     return isString && validation 
   }
-  
-  const str = "[string["
-  console.log(validate(str))
+
+  module.exports = validate
